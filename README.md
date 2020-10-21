@@ -1,2 +1,2 @@
 # Hello-World
-HelloWorld Progrram
+HelloWorld Program.
